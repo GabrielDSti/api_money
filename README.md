@@ -4,6 +4,7 @@
 
 - Spring Web
 - Spring Data
-- MySql
+- SQL
+- Flyway
 - Java
 
