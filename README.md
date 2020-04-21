@@ -1,8 +1,9 @@
-#API JSON
+# API JSON
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
--Spring Web
--Spring Data
--MySql
--Java
+- Spring Web
+- Spring Data
+- MySql
+- Java
+
